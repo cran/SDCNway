@@ -1,0 +1,15 @@
+5bf87b2297609abdfd1b7119d026809d *DESCRIPTION
+27f586b34819e259c791af208f5b9e71 *NAMESPACE
+ded5c07df5fd757b9bcd8886281be3f6 *R/exampledata.R
+c874b7b535ea238c8865105ac2b67c21 *R/get_table.R
+a108af3daea6e1abb8f5d649772d4e12 *R/globals.R
+001d9f1de041e074e192ef5933a8ce06 *R/loglinear.R
+b71f2c539454b5ac3a81714d40475dc0 *R/risk_measures.R
+3b40260d249a77aff57d16ef31cf29aa *R/sdc_extabs.R
+42e4ad3336f00d6cdf3762d496526857 *R/tabs.R
+5065bcd97f8e7bf1ed7118ddbd288c23 *build/partial.rdb
+04f8001fd52b8eee7d2b32d57b0be84d *data/exampledata.rda
+2cae8737795a34e0818e68b983ec9797 *inst/REFERENCES.bib
+e0a1bc4a0680a05fb29cf86d8f62abc0 *man/exampledata.Rd
+77bf7788ba6417094d8c6fc2b5e2a367 *man/sdc_extabs.Rd
+4506ff08713fd91f53ba102954f6f0c4 *man/sdc_loglinear.Rd
