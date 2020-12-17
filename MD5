@@ -1,4 +1,4 @@
-5bf87b2297609abdfd1b7119d026809d *DESCRIPTION
+5c18a97512534530bf201a0c1a0d8d76 *DESCRIPTION
 27f586b34819e259c791af208f5b9e71 *NAMESPACE
 ded5c07df5fd757b9bcd8886281be3f6 *R/exampledata.R
 c874b7b535ea238c8865105ac2b67c21 *R/get_table.R
@@ -7,9 +7,13 @@ a108af3daea6e1abb8f5d649772d4e12 *R/globals.R
 b71f2c539454b5ac3a81714d40475dc0 *R/risk_measures.R
 3b40260d249a77aff57d16ef31cf29aa *R/sdc_extabs.R
 42e4ad3336f00d6cdf3762d496526857 *R/tabs.R
-5065bcd97f8e7bf1ed7118ddbd288c23 *build/partial.rdb
+259a76c608a67f5ef3258d162e9b8928 *build/partial.rdb
+8a7424dd3f29d2a60e58a60507cbc330 *build/vignette.rds
 04f8001fd52b8eee7d2b32d57b0be84d *data/exampledata.rda
 2cae8737795a34e0818e68b983ec9797 *inst/REFERENCES.bib
+accc1bc6bc632b3aecccc089f339e498 *inst/doc/SDCNWay_guide.pdf
+7f910e8f8c4876f5660aa528be1f5a3a *inst/doc/SDCNWay_guide.pdf.asis
 e0a1bc4a0680a05fb29cf86d8f62abc0 *man/exampledata.Rd
 77bf7788ba6417094d8c6fc2b5e2a367 *man/sdc_extabs.Rd
 4506ff08713fd91f53ba102954f6f0c4 *man/sdc_loglinear.Rd
+7f910e8f8c4876f5660aa528be1f5a3a *vignettes/SDCNWay_guide.pdf.asis
